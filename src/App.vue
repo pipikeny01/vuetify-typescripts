@@ -2,7 +2,7 @@
   <v-app>
     <v-app-bar app color="primary" dark>
       <div class="d-flex align-center">
-        <my-button></my-button>
+        <my-button>k</my-button>
         <v-img
           alt="Vuetify Logo"
           class="shrink mr-2"
